@@ -1,0 +1,8 @@
+make deposit and transfer : from transcation just like withdraw
+
+add in program to use bank to excute the transcations therefor storing a history of transcations
+
+?? might need to go back to last project to see how the excutes were ment to work in the bank class. 
+
+
+look at withdraw in program, added in a passing statement

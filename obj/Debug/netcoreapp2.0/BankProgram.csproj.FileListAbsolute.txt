@@ -1,0 +1,11 @@
+/Users/sean/code/BankProgram/bin/Debug/netcoreapp2.0/BankProgram.deps.json
+/Users/sean/code/BankProgram/bin/Debug/netcoreapp2.0/BankProgram.runtimeconfig.json
+/Users/sean/code/BankProgram/bin/Debug/netcoreapp2.0/BankProgram.runtimeconfig.dev.json
+/Users/sean/code/BankProgram/bin/Debug/netcoreapp2.0/BankProgram.dll
+/Users/sean/code/BankProgram/bin/Debug/netcoreapp2.0/BankProgram.pdb
+/Users/sean/code/BankProgram/obj/Debug/netcoreapp2.0/BankProgram.csprojAssemblyReference.cache
+/Users/sean/code/BankProgram/obj/Debug/netcoreapp2.0/BankProgram.csproj.CoreCompileInputs.cache
+/Users/sean/code/BankProgram/obj/Debug/netcoreapp2.0/BankProgram.AssemblyInfoInputs.cache
+/Users/sean/code/BankProgram/obj/Debug/netcoreapp2.0/BankProgram.AssemblyInfo.cs
+/Users/sean/code/BankProgram/obj/Debug/netcoreapp2.0/BankProgram.dll
+/Users/sean/code/BankProgram/obj/Debug/netcoreapp2.0/BankProgram.pdb
